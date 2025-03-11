@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3>🎨 React Color Gradients🖼️</h3>
+<h1>🎨 React Color Gradients🖼️</h1>
    <img src="https://i.pinimg.com/736x/d8/cf/90/d8cf90fc4aef6141ee60620b46ab001d.jpg"  width="800" height="300"/>
 </div> 
 
