@@ -32,7 +32,7 @@ Você pode experimentar o projeto ao vivo através do CodePen:
 
 Link [para o CodePen](https://codepen.io/alunoteste/pen/ZYEXoKZ)
 
-🎯 Como Usar
+## 🎯 Como Usar
 
 -🖌️ Navegue até a interface principal
 -🖌️ Selecione as cores desejadas para criar seu gradiente
