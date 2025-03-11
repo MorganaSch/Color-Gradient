@@ -16,9 +16,11 @@ React Color Gradients é uma aplicação web interativa que permite aos usuário
 
 ## 🛠️ Tecnologias Utilizadas
 - React.js
-- CSS3 (linear-gradient)
+- CSS(linear-gradient)
 - JavaScript ES6+
 - HTML5
+- Gradiente CSS https://cssgradient.io/
+- (CSS Gradient é um projeto do designstripe que permite que você crie fundos de gradiente gratuitos para seu site. Além de ser um gerador de gradiente css, o site também é repleto de conteúdo colorido sobre gradientes, de artigos técnicos a exemplos de gradientes da vida real , como Stripe e Instagram.)
 
 ## 🚀 Como Executar
 1. Clone este repositório
