@@ -34,9 +34,9 @@ Link [para o CodePen](https://codepen.io/alunoteste/pen/ZYEXoKZ)
 
 ## 🎯 Como Usar
 
--🖌️ Navegue até a interface principal
--🖌️ Selecione as cores desejadas para criar seu gradiente
--🖌️ Visualize o resultado em tempo real
--🖌️ Copie o código hexadecimal ou CSS gerado
--🖌️Salve seus gradientes favoritos
+- 🖌️ Navegue até a interface principal
+- 🖌️ Selecione as cores desejadas para criar seu gradiente
+- 🖌️ Visualize o resultado em tempo real
+- 🖌️ Copie o código hexadecimal ou CSS gerado
+- 🖌️Salve seus gradientes favoritos
 
