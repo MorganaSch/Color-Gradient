@@ -1,5 +1,7 @@
 # 🎨 React Color Gradients🖼️
-Um gerador de gradientes de cores interativo construído com React
+<div align="center">
+<img src="https://cdn.pixabay.com/photo/2015/04/29/19/43/course-746022_960_720.jpg"  width="800" height="300"/>
+</div> 
 
 ## 📋 Sobre o Projeto
 React Color Gradients é uma aplicação web interativa que permite aos usuários criar, visualizar e copiar belíssimos gradientes de cores. Desenvolvido com React, o projeto oferece uma interface intuitiva para experimentação com diferentes combinações de cores e seus respectivos códigos hexadecimais.
